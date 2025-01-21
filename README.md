@@ -13,7 +13,7 @@ Python programs to help census or acs data collection, aggregation, normalizatio
 	- https://api.census.gov/data/2018/acs/acs5/examples.html
 
 
-### Section2: Data selection, aggregation, normalization at both tract and county level. Zipcode level is also supported
+### Section2: Data selection, aggregation, and normalization
 #### ACS_selection_tract.py and ACS_selection_zipcode.py
 
 - ###### How to run examples:
